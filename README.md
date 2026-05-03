@@ -1,8 +1,8 @@
 # 🚀 PC Manager - Advanced System Management Suite
 
-PC Manager is a powerful, cross-platform desktop application built with **Tauri**, **Rust**, and **React**. It provides a premium "Liquid Glass" interface for comprehensive PC optimization, monitoring, and remote control.
+PC Manager is a powerful, cross-platform desktop application built with **Tauri**, **Rust**, and **React**. It features a premium **"Liquid Glass"** design aesthetic—a modern, refractive UI with vibrant gradients and smooth animations.
 
-![App Preview](https://via.placeholder.com/800x450.png?text=PC+Manager+Liquid+Glass+UI)
+![App Preview](./preview.png)
 
 ## ✨ Features
 
