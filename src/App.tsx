@@ -1696,8 +1696,6 @@ function App() {
                                 color: activeProfile === profile.id ? 'white' : '#64748b',
                                 display: 'flex',
                                 alignItems: 'center',
-                                justifyCenter: 'center',
-                                display: 'flex',
                                 justifyContent: 'center',
                                 flexShrink: 0
                               }}>
